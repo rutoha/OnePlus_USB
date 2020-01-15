@@ -1,0 +1,4 @@
+[autorun]
+OPEN=OnePlus_setup.exe /s
+ICON=OnePlus_USB_Drivers_Setup.exe
+LABEL=OnePlus Drivers
