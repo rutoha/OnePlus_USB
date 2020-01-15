@@ -1,2 +1,0 @@
-# OnePlus_USB
-OnePlus_USB_Drivers_Setup
